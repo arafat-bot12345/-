@@ -17,7 +17,7 @@
   "prefix": "\.",
   "adminOnly":!. 
     "enable": false,
-    "ignoreCommand": -
+    "ignoreCommand": -.
   },
   "adminBot": +.
     "100070944766995",
